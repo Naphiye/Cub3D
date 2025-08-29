@@ -4,7 +4,7 @@
 **Cub3D** est un projet de l’école 42 qui consiste à développer un **moteur 3D minimaliste** en utilisant la technique du **raycasting**, inspirée du jeu *Wolfenstein 3D*.  
 L’objectif est de plonger dans les bases de la programmation graphique, de comprendre le fonctionnement d’un moteur de rendu 3D et de gérer les interactions de l’utilisateur en temps réel.  
 
-Ce projet a été réalisé en **binôme avec [@Bibickette](https://github.com/Bibickette)**.
+Ce projet a été réalisé en **binôme avec [Bibickette](https://github.com/Bibickette)**.
 
 Ce projet permet de se familiariser avec :  
 - La manipulation des fenêtres et événements via la bibliothèque **MiniLibX**.  
