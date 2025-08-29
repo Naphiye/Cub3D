@@ -1,0 +1,18 @@
+NO ./textures/face3.xpm
+SO ./textures/face2.xpm
+
+
+F 66, 0, 0
+C 224, 165, 159
+
+WE ./textures/face1.xpm
+EA ./textures/face0.xpm
+
+11111111
+10100001
+10100001
+10000S01
+10000001
+10000101
+10000001
+11111111
