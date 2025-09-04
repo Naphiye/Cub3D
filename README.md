@@ -19,7 +19,7 @@ Ce projet permet de se familiariser avec :
 - Lire et valider une **map** décrite dans un fichier `.cub`.  
 - Afficher :  
   - Les murs avec textures.  
-  - Le sol et le plafond avec les couleurs spécifiées.  
+  - Le sol et le plafond avec les couleurs spécifiées en rgb.  
 - Gérer les déplacements du joueur :  
   - Avancer, reculer, tourner à gauche et à droite.  
 - Gérer les erreurs (fichier invalide, texture manquante, map incorrecte).  
@@ -31,24 +31,35 @@ Ce projet permet de se familiariser avec :
 
 ### 1️⃣ Compilation
 Pour la version de base :  
-make  
-
-Génère l’exécutable :  
+```bash
+git clone git@github.com:42paris/minilibx-linux.git
+make
+```
+Génère l’exécutable :
+```bash
 cub3D  
+```
 
-Pour la version avec **bonus** :  
-make bonus  
+Pour la version avec **bonus** : 
+```bash
+make bonus
+```  
 
 Génère l’exécutable :  
+```bash
 cub3D_bonus  
+```
 
 ### 2️⃣ Lancement du programme
-Exécuter une map depuis le dossier `maps/` :  
-cub3D maps/example.cub  
+Exécuter une map depuis le dossier `maps/` : 
+```bash
+./cub3D maps/example.cub  
+```
 
 Pour la version bonus :  
-cub3D_bonus maps/example.cub  
-
+```bash
+./cub3D_bonus maps/example.cub  
+```
 ### 3️⃣ Contrôles
 - **Z / W** : avancer  
 - **S** : reculer  
