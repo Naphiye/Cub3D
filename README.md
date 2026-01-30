@@ -41,7 +41,7 @@ Le développement a été réalisé en binôme avec [Bibickette](https://github.
 - **Collisions murales** empêchant le passage à travers les murs
 - **Mini-map 2D** rendue en temps réel à partir des données du moteur
 - **Portes interactives** avec gestion d’état (ouvert / fermé)
-- **Sprites animés** (ex : torches)
+- **Sprites animés** (ex :coeur)
 
 ---
 
